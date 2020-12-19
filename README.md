@@ -1,5 +1,5 @@
 # Game-Cinematic-Timelapse-AHI
-A AutoHotInterception Script with GUI for creating a cinematic timelapse in a game.
+An AutoHotInterception Script with GUI for creating a cinematic timelapse in a game.
 
 # Setup
 - Install the latest AutoHotKey: https://www.autohotkey.com/
